@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💚 by José Guillardi 🤝 [See my linkedin](https://github.com/JoseGu1llardi)
+Made with 💚 by José Guillardi 🤝 [See my linkedin](https://www.linkedin.com/in/jos%C3%A9-wellington-ribeiro-a26418163/)
